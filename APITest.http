@@ -1,0 +1,2 @@
+GET http://localhost:5000/api/hotel?hotelRating=3 *&&IsReady=Yes
+Accept: application/xml
